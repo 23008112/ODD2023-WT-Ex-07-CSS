@@ -83,6 +83,9 @@ a {
 </html>
 ```
 # OUTPUT:(i)
+![Screenshot 2023-12-11 074430](https://github.com/23008112/ODD2023-WT-Ex-07-CSS/assets/138972470/f60a9c31-3946-4f7d-b726-61b1909bdc96)
+![Screenshot 2023-12-11 074458](https://github.com/23008112/ODD2023-WT-Ex-07-CSS/assets/138972470/8e16be86-b423-43f8-9875-e474e41de8f0)
+![Screenshot 2023-12-11 074639](https://github.com/23008112/ODD2023-WT-Ex-07-CSS/assets/138972470/46f6cb53-199c-4dd1-bb82-69e71287ed8b)
 
 # Ex-07(ii)-CSS
 # AIM
@@ -162,6 +165,8 @@ End the HTML document by closing all open tags.
 ```
 
 # OUTPUT: (ii)
+![Screenshot 2023-12-11 075536](https://github.com/23008112/ODD2023-WT-Ex-07-CSS/assets/138972470/c7a18016-5dfc-4a2f-9d90-68e3190f7136)
+![Screenshot 2023-12-11 075554](https://github.com/23008112/ODD2023-WT-Ex-07-CSS/assets/138972470/40c171a1-0aad-4b0e-bef2-74de7725c88d)
 
 
 # Ex-07(iii)-CSS Orientation-based Media Query
