@@ -165,7 +165,7 @@ End the HTML document by closing all open tags.
 ```
 
 # OUTPUT: (ii)
-![Screenshot 2023-12-11 075536](https://github.com/23008112/ODD2023-WT-Ex-07-CSS/assets/138972470/c7a18016-5dfc-4a2f-9d90-68e3190f7136)
+![Screenshot 2023-12-11 080404](https://github.com/23008112/ODD2023-WT-Ex-07-CSS/assets/138972470/d06d3f05-78f7-4f8f-a2bd-8f9d17c4f9ac)
 ![Screenshot 2023-12-11 075554](https://github.com/23008112/ODD2023-WT-Ex-07-CSS/assets/138972470/40c171a1-0aad-4b0e-bef2-74de7725c88d)
 
 
